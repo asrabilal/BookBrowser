@@ -29,9 +29,10 @@
   Testing not required.
   ## Screenshots:
    ![001](assests/001.png)<br>
-   ![]()<br>
-   ![]()<br>
-   ![]()
+   ![login-signup](assests/login-signup.png)<br>
+   ![searchbar](assests/searchbar.png)<br>
+   ![search](assests/search.png)
+   ![collection](assests/collection.png)
 
   ## Questions
   [HERE](https://github.com/asrabilal)
@@ -53,5 +54,5 @@
 </p>
 
 ## URLs
-Github repository link:https://github.com/asrabilal/BookSearch.git <br>
-Deployed application link: https://git.heroku.com/nameless-thicket-56897.git/ <br>
+Github repository link: https://github.com/asrabilal/BookSearch.git <br>
+Deployed application link: https://nameless-thicket-56897.herokuapp.com/ <br>
